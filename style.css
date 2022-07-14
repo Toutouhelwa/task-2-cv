@@ -1,0 +1,25 @@
+div{
+    text-align: center;
+    width: 40%;
+    height: auto;
+    background-color: beige;
+    float:left;
+   padding: 0px;
+   
+}
+h3{
+    color: black;
+    font-size: large;
+    font-family: fantasy;
+}
+h1{
+    text-align: left;
+}*
+.avatar{
+    display: inline;
+  margin: -300px;
+  padding-top:300px;
+}
+h4{
+    opacity: 0.7;
+}
